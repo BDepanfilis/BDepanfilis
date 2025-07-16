@@ -50,7 +50,7 @@ I'm a recent college graduate passionate about **data analytics**, statistics, a
 
 - [LinkedIn](https://www.linkedin.com/in/bradley-depanfilis/)
 - [GitHub](https://github.com/BDepanfilis)
-- Email: [bradleydepanfilis@gmail.com]
+- Email: bradleydepanfilis@gmail.com
 
 ---
 
