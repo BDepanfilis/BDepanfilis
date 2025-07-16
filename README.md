@@ -1,4 +1,4 @@
-# Hi, I'm [Bradley DePanfilis] 👋
+# Hi, I'm Bradley DePanfilis 👋
 
 I'm a recent college graduate passionate about **data analytics**, statistics, and storytelling with data. I love building tools and visualizations that uncover insights and present them in compelling ways—taking inspiration from Nate Silver’s models and articles, and my addiction to Sports Analytical pages such as FanGraphs and PFF.
 
