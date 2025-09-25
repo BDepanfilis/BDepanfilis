@@ -36,7 +36,7 @@
 - Repo: [REPO_URL](https://github.com/BDepanfilis/ab-uplift-analysis)
 
 ### Bayesian Elo (Valorant)
-- Developed a production-ready **Bayesian team rating system** in for Valorant teams displayed on **vlr.gg**, aggregating player stats into team skills with hierarchical priors for uncertainty, incorporating margin-of-win scaling, map adjustments, meta updates, roster resets, time decay, and regional biases to enable accurate 1:1 cross-regional predictions for Tier 1 & 2 teams across global regions. . 
+- Developed a production-ready **Bayesian team rating system** in for Valorant teams displayed on [Vlr.gg](vlr.gg), aggregating player stats into team skills with hierarchical priors for uncertainty, incorporating margin-of-win scaling, map adjustments, meta updates, roster resets, time decay, and regional biases to enable accurate 1:1 cross-regional predictions for Tier 1 & 2 teams across global regions. . 
 - Deployed for 2024–2025 VCT/VCL matches with >28M total visitors; supports dynamic leaderboards and real-time updates.  
 - **Highlights:** Modular design with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**; deployed via **Docker** on **AWS**; integrates **Chart.js** for visualizations.  
 - **Skills:** Data engineering, Docker, AWS, Python (pandas, NumPy, FastAPI, SQLAlchemy, Pydantic), PostgreSQL, API development, Bayesian modeling, data visualization.  
